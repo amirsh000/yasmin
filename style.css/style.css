@@ -1,0 +1,32 @@
+.header .navbar {
+    background: #f5e0ab;
+}
+.carusel-img {
+    width: 50%;
+    max-height: 650px;
+}
+.container .carousel {
+    max-width: 50%;
+}
+.header {
+    background: #e6d9b8;
+}
+.header__content {
+    padding: 50px;
+}
+.header__brief_info {
+    margin-left: 25px;
+}
+.name {
+    font-family: Arial;
+    font-size: 46px;
+    font-weight: 600;
+}
+.brief__info {
+    font-family: Arial;
+    font-size: 19px;
+    text-align: justify;
+}
+.members__img {
+    width: 75%;
+}
